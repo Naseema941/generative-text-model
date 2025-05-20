@@ -1,0 +1,4 @@
+Explain how TensorFlow is used in machine learning.
+What is Docker and how does it help developers?
+How does Git improve team collaboration?
+Describe the key features of Visual Studio Code.
